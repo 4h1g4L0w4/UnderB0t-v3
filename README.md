@@ -554,22 +554,6 @@ npm run type-check
 # Build sin errores
 npm run build
 ```
-
-## 🤝 Contribuir
-
-### Workflow de Contribución
-
-```mermaid
-gitgraph
-    commit id: "Setup inicial"
-    branch feature/nuevo-comando
-    checkout feature/nuevo-comando
-    commit id: "Crear comando !nuevo"
-    commit id: "Agregar tests"
-    checkout main
-    merge feature/nuevo-comando
-```
-
 ## 🐛 Solución de Problemas
 
 ### Problemas Comunes
