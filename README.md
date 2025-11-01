@@ -48,7 +48,7 @@ graph TB
 
 ```bash
 # 1. Clonar repositorio
-git clone <tu-repo>
+git clone https://github.com/4h1g4L0w4/UnderB0t-v3
 cd Nuevo-bot
 
 # 2. Ejecutar en producción
