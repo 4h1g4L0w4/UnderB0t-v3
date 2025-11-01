@@ -1,0 +1,8 @@
+node_modules/
+dist/
+auth_info/*
+!auth_info/README.md
+*.log
+.env
+.DS_Store
+

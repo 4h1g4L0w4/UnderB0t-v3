@@ -1,0 +1,17 @@
+node_modules
+dist
+auth_info
+.git
+.gitignore
+README.md
+INSTRUCCIONES_DOCKER.md
+QUICKSTART.md
+.env
+*.log
+.DS_Store
+docker-compose.yml
+docker-compose.dev.yml
+Dockerfile
+Dockerfile.dev
+.dockerignore
+
